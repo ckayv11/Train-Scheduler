@@ -1,0 +1,18 @@
+
+.jumbotron {
+    background-image: url('../images/train-waiting.jpg');
+    background-size: cover;
+    background-repeat: none;
+}
+
+#header {
+    margin: 30px;
+    background-color: #ffffff;
+    color: black;
+    border: 1px solid black;
+    opacity: 0.6;
+  }
+
+  .card-header {
+      font-weight: bold;
+  }
